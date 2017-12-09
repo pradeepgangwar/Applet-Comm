@@ -12,7 +12,7 @@
 2. Ripuvendra Singh
 3. [Sashank Mishra](https://github.com/sashank27)
 4. [Shreyansh Dwivedi](https://github.com/shreyanshdwivedi)
-5. Siddharth Simharaju
+5. [Siddharth Simharaju](https://github.com/TheDevastator)
 ___
 
 #### Introduction:
